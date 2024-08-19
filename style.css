@@ -18,3 +18,7 @@ section{
     display: flex;
     justify-content: center;
 }
+
+.chamda-texto {
+    margin-right: 20xp;
+}
